@@ -1,0 +1,6 @@
+.env
+.vscode/
+bin/
+.github/modernize/
+lib/jcalendar-1.4/doc/
+lib/jcalendar-1.4/src/
